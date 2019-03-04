@@ -1,0 +1,12 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "LDS Test",
+            "Phone": "090-1234-5678"
+        }
+    ]
+}
